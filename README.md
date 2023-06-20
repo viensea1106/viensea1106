@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🤔 But ... wh0am1?
 
-| <img src="https://github-readme-stats.vercel.app/api?username=idk-wh0am1&show_icons=true&theme=github_dark" style="display: inline;"> |<img src="https://github-readme-stats.vercel.app/apitop-langs/?username=idk-wh0am1&show_icons=true&theme=github_dark" style="display: inline;"> |
+| <img src="https://github-readme-stats.vercel.app/api?username=idk-wh0am1&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idk-wh0am1&layout=compact"> |
 | ------------- | ------------- |
