@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🤔 But ... wh0am1?
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=idk-wh0am1&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="idk-wh0am1's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idk-wh0am1&layout=compact&theme=transparent&hide_border=true" /></a> |
+| <img src="https://github-readme-stats.vercel.app/api?username=idk-wh0am1&show_icons=true&theme=github_dark" style="display: inline;"> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idk-wh0am1&layout=compact&theme=transparent&hide_border=true" /></a> |
 | ------------- | ------------- |
