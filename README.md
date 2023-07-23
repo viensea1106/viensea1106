@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 😖 Follow my journey [here](https://viensea1106.github.io/)
 
-| <img src="https://github-readme-stats.vercel.app/api?username=idk-wh0am1&show_icons=true&theme=transparent"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viensea1106&layout=compact&theme=transparent"> |
+| <img src="https://github-readme-stats.vercel.app/api?username=viensea1106&show_icons=true&theme=transparent"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viensea1106&layout=compact&theme=transparent"> |
 | ------------- | ------------- |
