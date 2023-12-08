@@ -14,11 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, Wh0 4r3 y0u?</h1>
-
-- 🌱 I’m currently learning ...
-- 🔭 I’m currently working on ...
-- 😖 Follow my journey [here](https://viensea1106.github.io/)
+<img src="https://pa1.narvii.com/6399/e0fd8458d64871cc911a411fe2dcce2976008b55_hq.gif">
 
 | <img src="https://github-readme-stats.vercel.app/api?username=viensea1106&show_icons=true&theme=transparent"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viensea1106&layout=compact&theme=transparent&langs_count=10"> |
 | ------------- | ------------- |
