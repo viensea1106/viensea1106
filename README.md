@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://komarev.com/ghpvc/?username=viensea1106&style=flat-square)
-
 <p align='center'>
   <img src="https://pa1.narvii.com/6399/e0fd8458d64871cc911a411fe2dcce2976008b55_hq.gif">
 </p>
